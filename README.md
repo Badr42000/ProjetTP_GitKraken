@@ -44,3 +44,4 @@ Pour effecuter cette opération il faut appuyer sur le bouton "Push", selectionn
 ## Étape 3 :
 
 ### Question 6 :
+conflit
