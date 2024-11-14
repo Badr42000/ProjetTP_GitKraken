@@ -44,4 +44,4 @@ Pour effecuter cette opération il faut appuyer sur le bouton "Push", selectionn
 ## Étape 3 :
 
 ### Question 6 :
-conflit
+Un conflit Git c'est lorsque 2 branches ont des modif differentes sur les mêmes lignes d'un fichier. Cela peux survenir lorsque plusieurs personnes travaillent sur le même projet.
