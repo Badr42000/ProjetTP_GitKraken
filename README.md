@@ -45,3 +45,17 @@ Pour effecuter cette opération il faut appuyer sur le bouton "Push", selectionn
 
 ### Question 6 :
 Un conflit Git c'est lorsque 2 branches ont des modif differentes sur les mêmes lignes d'un fichier. Cela peux survenir lorsque plusieurs personnes travaillent sur le même projet.
+
+#### 1ere étape :
+- Se placer sur la branche main
+- Faire un clique droit sur la branche feature 
+- Cliquer sur "Merge main into origin/feature"
+![alt text](merge1.png)
+
+#### 2eme étape :
+- Faire un clique droit sur l'icon qui est apparut dans la nouvelle ligne 
+- Cliquer sur Apply stash
+![alt text](merge2.png)
+
+- La ligne entouré en rouge sera crée et les lignes du fichier Readme.md de feature seront sur le Readme.md de main
+![alt text](merge3.png)
