@@ -46,6 +46,8 @@ Pour effecuter cette opération il faut appuyer sur le bouton "Push", selectionn
 ### Question 6 :
 Un conflit Git c'est lorsque 2 branches ont des modif differentes sur les mêmes lignes d'un fichier. Cela peux survenir lorsque plusieurs personnes travaillent sur le même projet.
 
+### Question 7 : 
+
 #### 1ere étape :
 - Se placer sur la branche main
 - Faire un clique droit sur la branche feature 
@@ -53,9 +55,20 @@ Un conflit Git c'est lorsque 2 branches ont des modif differentes sur les mêmes
 ![alt text](merge1.png)
 
 #### 2eme étape :
-- Faire un clique droit sur l'icon qui est apparut dans la nouvelle ligne 
+- Faire un clique droit sur l'icon qui est apparut dans la nouvelle ligne .
 - Cliquer sur Apply stash
 ![alt text](merge2.png)
 
-- La ligne entouré en rouge sera crée et les lignes du fichier Readme.md de feature seront sur le Readme.md de main
+- La ligne entouré en rouge sera crée et les lignes du fichier Readme.md de feature seront sur le Readme.md de main.
 ![alt text](merge3.png)
+
+### Question 8 : 
+
+Un commit de merge est le commit que j'ai montré juste au dessus entouré en rouge. C'est un commit spécial qui est créé lorsqu'on fusionne une branche dans une autre et qu’il y a des différences entre les deux branches.
+
+## Étape 4 :
+
+### Question 9 : 
+
+
+
