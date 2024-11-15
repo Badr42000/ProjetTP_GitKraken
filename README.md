@@ -71,8 +71,9 @@ Un commit de merge est le commit que j'ai montré juste au dessus entouré en ro
 ### Question 9 : 
 
 Une pull request sert à fusionner les changements.
-
-Je ne vois pas de pull request je ne sais pas pourquoi. 
-![alt text](pr.png)
+Au lieu d'epliquer voici l'interface de création du pull request
+![alt text](pr2.png)
 
 ### Question 10 : 
+
+De ce que j'ai cru comprendre une PR c'est comme un Merge mais avec une étape en plus dites étape collaborative
