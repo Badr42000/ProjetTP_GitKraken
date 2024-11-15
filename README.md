@@ -71,8 +71,11 @@ Un commit de merge est le commit que j'ai montré juste au dessus entouré en ro
 ### Question 9 : 
 
 Une pull request sert à fusionner les branches contenant des changements.
-Pour crée une PR dans Gitkraken il suffit de cliquer sur le bouton + à gauche de l'écran dans la section pull request. </br>
+Pour crée une PR dans Gitkraken il suffit de cliquer sur le bouton "+" à gauche de l'écran dans la section pull request. </br>
 Indiquer les branches qu'on veut fusionner.
+Entrer si on le souhaite une description et un titre.
+Puis cliquer sur "Create Pull Request".
+
 ![alt text](pr3.png)
 ![alt text](pr4.png)
 ### Question 10 : 
@@ -84,4 +87,14 @@ PR est plus utilisé dans les projets collaboratifs car une PR offre la possibli
 
 ### Question 11 :
 
+Sur Gitkraken on a une interface graphique qui nous montre l'historique des commit 
+![alt text](historique.png)
+Cette interface est simple à comprendre on peux y voir :
+- l'utilisateur qui a commit
+- le message pour mieux comprendre ce qui a été commit
+- le visuel des branches
+
+C'est une interface simple et clair.
+
+### Question 12 : 
 
