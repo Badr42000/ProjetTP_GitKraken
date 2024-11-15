@@ -98,3 +98,5 @@ C'est une interface simple et clair.
 
 ### Question 12 : 
 
+Pour crée un tag dans Gitkraken il faut faire un clic droit sur main puis cliquer sur "Create tag here" et mettre le nom du tag ici "1.0". </br>
+Le tag sert à marquer les versions comme 1.0 1.2 ou 2.0 pour mieux s'y retrouver.
