@@ -70,10 +70,18 @@ Un commit de merge est le commit que j'ai montré juste au dessus entouré en ro
 
 ### Question 9 : 
 
-Une pull request sert à fusionner les changements.
-Au lieu d'epliquer voici l'interface de création du pull request
-![alt text](pr2.png)
-
+Une pull request sert à fusionner les branches contenant des changements.
+Pour crée une PR dans Gitkraken il suffit de cliquer sur le bouton + à gauche de l'écran dans la section pull request. </br>
+Indiquer les branches qu'on veut fusionner.
+![alt text](pr3.png)
+![alt text](pr4.png)
 ### Question 10 : 
 
-De ce que j'ai cru comprendre une PR c'est comme un Merge mais avec une étape en plus dites étape collaborative
+De ce que j'ai cru comprendre une PR c'est comme un Merge mais avec la possiblité d'expliquer les changements apportés dans la partie "Description" avec un titre. </br>
+PR est plus utilisé dans les projets collaboratifs car une PR offre la possiblité d'avoir un suivi écris des chage apporté, pas besoin de demander au collegue ce qu'il à fait.
+
+## Étape 5 :
+
+### Question 11 :
+
+
