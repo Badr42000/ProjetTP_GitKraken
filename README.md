@@ -72,3 +72,4 @@ Un commit de merge est le commit que j'ai montré juste au dessus entouré en ro
 
 Une pull request sert à
 
+Je ne vois pas de pull request je ne sais pas pourquoi 
